@@ -10,7 +10,7 @@ body{
     /* radial-gradient(circle at 20% 20%, rgba(200,0,0,0.3), transparent 70%), */
     /* linear-gradient(135deg, #000000, #1a0000, #000000); */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background: radial-gradient(circle at top left, rgba(255, 0, 0, 0.904) 40%, rgb(0, 0, 0) 60%);
+    background: radial-gradient(circle at top left, rgba(255, 0, 0, 0.904) 30%, rgb(0, 0, 0) 50%);
 
 
 
@@ -129,4 +129,7 @@ a{
     color: white;
     line-height: 20px;
     text-transform: capitalize;
+}
+.content-heading{
+    color: white;
 }
